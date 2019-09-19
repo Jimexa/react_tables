@@ -1,0 +1,7 @@
+.table {
+  border: 2px;
+  display: flexbox;
+  width: 90%;
+  align-self: center;
+  justify-self: center;
+}
