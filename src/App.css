@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  align-items: center;
 }
 
 .App-logo {
@@ -17,6 +18,13 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.tableContainer {
+  width: 90vh;
+  align-items: center;
+  background-color: aqua;
+  align-self: center;
 }
 
 .App-link {
